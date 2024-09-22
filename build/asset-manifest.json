@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.js": "/reactPortfolio/static/js/main.c0818c93.js",
+    "static/media/GuestBook.png": "/reactPortfolio/static/media/GuestBook.4bf4b4c296dafd906458.png",
+    "static/media/byankafe.jpg": "/reactPortfolio/static/media/byankafe.1e5f51b99f49a9ed1e04.jpg",
+    "static/media/NewsAppKotlin.png": "/reactPortfolio/static/media/NewsAppKotlin.340709d09280bb7ed2f5.png",
+    "static/media/DzikirAppKotlin.png": "/reactPortfolio/static/media/DzikirAppKotlin.5014de258704d0418036.png",
+    "static/media/fotoHead.jpg": "/reactPortfolio/static/media/fotoHead.16c24037961746a061f2.jpg",
+    "index.html": "/reactPortfolio/index.html",
+    "main.c0818c93.js.map": "/reactPortfolio/static/js/main.c0818c93.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.c0818c93.js"
+  ]
+}
