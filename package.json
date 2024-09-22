@@ -1,6 +1,7 @@
 {
   "name": "portoreactjs",
   "private": true,
+  "homepage": "https://praditya27-stack.github.io/abyanporto",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
@@ -20,6 +21,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-router-dom": "^6.26.2",
+    "react-scripts": "^5.0.1",
     "react-scroll": "^1.9.0",
     "scrollreveal": "^4.0.9"
   },
@@ -38,6 +40,5 @@
     "postcss": "^8.4.47",
     "tailwindcss": "^3.4.12",
     "vite": "^5.4.1"
-  },
-  "homepage": "https://praditya27-stack.github.io/abyanporto"
+  }
 }
