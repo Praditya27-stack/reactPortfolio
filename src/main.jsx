@@ -1,15 +1,15 @@
 import React from 'react';
-import { StrictMode } from 'react'
-import { createRoot } from 'react-dom/client'
-import ReactDom from "react-dom/client";
-import App from './App.jsx'
-import './index.css'
-import { BrowserRouter } from 'react-router-dom';
+import ReactDOM from 'react-dom/client'; 
+import { HashRouter } from 'react-router-dom';
+import App from './App.jsx';
+import './index.css';
 
-ReactDom.createRoot(document.getElementById('root')).render(
+const container = document.getElementById('root');
+const root = ReactDOM.createRoot(container); 
+root.render(
   <React.StrictMode>
-    <BrowserRouter>  
+    <HashRouter>
       <App />
-    </BrowserRouter>
-  </React.StrictMode>,
-)
+    </HashRouter>
+  </React.StrictMode>
+);
